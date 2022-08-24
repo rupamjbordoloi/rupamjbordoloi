@@ -8,7 +8,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/rupamjbordoloi1" target="blank"><img src="https://img.shields.io/twitter/follow/rupamjbordoloi1?logo=twitter&style=for-the-badge" alt="rupamjbordoloi1" /></a> </p> -->
 
 - 📫 How to reach me **rupamjbordoloi@gmail.com**
-- 📝 Checkout my [Resume](files/Rupam Jyoti Bordoloi.pdf).
+- 📝 Checkout my [Resume](https://github.com/rupamjbordoloi/rupamjbordoloi/blob/c249a7c604ae6c404d40be027b477e2cb8755760/files/Rupam%20Jyoti%20Bordoloi.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
